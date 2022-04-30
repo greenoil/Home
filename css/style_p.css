@@ -1,0 +1,37 @@
+/* 共通部分
+------------------------ */
+html {
+  font-size: 90%;
+}
+body {
+	font-family: "Yu Gothic Medium", "游ゴシック Medium", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
+}
+
+/* HOME
+------------------------ */
+.wrapper {
+	max-width: 90%;
+	margin:0 auto;
+	padding:10px 0px;
+}
+
+.bg {
+	color:#432;
+	min-width: 90%;
+}
+
+.bg h2 {
+	border-bottom:1px solid #432;
+}
+
+/* フッター
+------------------------ */
+footer {
+  background: #fff;
+  text-align: right;
+  margin-top: 0px;
+}
+footer p {
+  color: #432;
+  font-size: 0.875rem;
+}
